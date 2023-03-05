@@ -1,0 +1,14 @@
+<img class="rounded mx-auto d-block img-fluid" src="images/1.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/2.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/3.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/4.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/5.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/6.jpg"/><br>
+
+<img class="rounded mx-auto d-block img-fluid" src="images/7.jpg"/><br>
+
